@@ -4,10 +4,16 @@ h1 {
 }
 
 .sidebar {
-  float: left;
-  font-size: larger;
-  line-height: 1cm;
-  background-color: azure;
+    width: 25%;
+    padding: 20px;
+    border: solid black;
+    border-width: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    float: left;
+    font-size: larger;
+    line-height: 1cm;
+    background-color: azure;
 }
 
 body {
@@ -15,7 +21,24 @@ body {
 }
 
 img {
-  width: 650px;
+  width: 800px;
   height: 550px;
-  float:inline-start;
+  float: right;
+  margin: 10px;
+  border: 2px black;
+  padding: 4px;
+  padding-left: 10px;
+  border-width: 2px;
 }
+
+.head {
+  width: 100%;
+  padding: 20px;
+  border: solid black;
+  border-width: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: azure;
+}
+
+
