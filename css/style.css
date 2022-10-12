@@ -1,3 +1,15 @@
 h1 {
   text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.sidebar {
+  float: left;
+  font-size: larger;
+  line-height: 1cm;
+  background-color: azure;
+}
+
+body {
+  background-color: lightsalmon;
 }
