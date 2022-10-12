@@ -5,7 +5,7 @@
 
 #### _This is a made up webpage for the band Queen_
 
-[Click Here](https://yoonisali.github.io/queen) to check out the website!
+[Click Here](http://yoonisali.github.io/queen/) to check out the website!
 
 ## Technologies Used
 
