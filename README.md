@@ -5,6 +5,8 @@
 
 #### _This is a made up webpage for the band Queen_
 
+[Click Here](file:///Users/student/Desktop/queen/queen.html) to check out the website!
+
 ## Technologies Used
 
 * _HTML_
