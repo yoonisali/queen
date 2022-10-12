@@ -13,3 +13,9 @@ h1 {
 body {
   background-color: lightsalmon;
 }
+
+img {
+  width: 650px;
+  height: 550px;
+  float:inline-start;
+}
